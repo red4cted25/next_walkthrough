@@ -29,6 +29,7 @@ export default function RootLayout({ children }) {
             <Link href="/">Home</Link>
             <h1 className="text-2xl font-bold mx-4">Next Walkthrough</h1>
             <Link href="/test">Test</Link>
+            <Link href="/products">Products</Link>
           </nav>
         </header>
 

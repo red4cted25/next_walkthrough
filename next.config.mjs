@@ -9,6 +9,12 @@ const nextConfig = {
                 port: '',
                 search:'',
             },
+            {
+                protocol: 'https',
+                hostname:"web-assests.monsterenergy.com",
+                port: '',
+                search:'',
+            },
         ],
     }
 };
